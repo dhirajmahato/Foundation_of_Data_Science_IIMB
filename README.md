@@ -25,4 +25,31 @@ Descriptive Analytics is used to describe data and derive insights using descrip
 6. Measure of Shape
 7. Data visualisation charts
 
+#### Week2: Probability Theory and Applications
+*"Probability theory is the foundation on which descriptive and predictive models are built"*
 
+1. Introduction
+2. Axioms of Probability
+3. Applications of Simple Probability
+4. Bayes' Theorem
+5. Random Variable
+6. PMF and CDF of Discrete Random Variable
+7. Geometric Distribution
+8. Parameters of Continuous Distributions
+9. Uniform Distribution
+10. Poisson Distribution
+11. Binomial Distribution
+12. Normal Distribution
+
+
+#### Week3: Sampling and Estimation
+
+#### Week4: Confidence Interval
+
+#### Week5: Hypothesis Testing
+
+#### Week6: Analysis of Variance
+
+#### Week7: Correlation
+
+#### Week8: Optimization and Linear applied algebra
