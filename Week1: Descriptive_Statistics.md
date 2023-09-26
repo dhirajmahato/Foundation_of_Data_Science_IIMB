@@ -66,9 +66,7 @@ Mahalanobis distance and Cook’s distance to identify outliers.
   
 #### Types
 1. Descriptive statistics are used to summarize and describe the characteristics of a dataset. 
-2. Predictive
-3. Prescriptive
-4. Inferential statistics are used to draw conclusions about a population based on a sample of data. Techniques like hypothesis testing and confidence intervals are examples of inferential statistics.
+2. Inferential statistics are used to draw conclusions about a population based on a sample of data. Techniques like hypothesis testing and confidence intervals are examples of inferential statistics.
 
 ### D. Statistics Distribution
 - Data distribution is the **frequency distribution** of individual values in a data set.
