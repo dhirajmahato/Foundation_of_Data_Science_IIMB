@@ -3,6 +3,20 @@
    
 ### A. Introduction
 
+|**Quantitative**      | **Qualitative**   |
+|----------------------|---------------------|
+|decide *which calculations and statistical tests* you’ll use to analyze the data. | consider what *approach you’ll take to categorizing  and interpreting* the data.|
+|   You’ll  probably be using some kind of **statistical analysis**.|  Instead of summing it up in numbers, you’ll  need to comb through the data in detail, interpret its meanings, and extract the parts that are most relevant to your research question. |
+| 1. Summarize your sample data,<br/> 2. Make estimates about the population,<br/> 3. And test hypotheses.| **Thematic analysis**,  which focuses on finding patterns in the data. You label recurring topics or concepts  and then group them into broad themes.<br/> **Discourse analysis**,  which pays more attention to things like social context and structure. You analyze not  only what is said, but also how it’s said.  | 
+| **Descriptive statistics** like the mean to test a hypothesis about a relationship  between variables, you can use a statistical test. <br/> a. Regression and correlation tests look for  associations between two or more variables. <br/> b. Comparison tests, such as t-tests and ANOVAs, look for differences in the  outcomes of different groups.|   |
+
+
+#### Types
+1. **Descriptive statistics** are used to summarize and describe the characteristics of a dataset.
+   - regression analysis, 
+2. **Inferential statistics** are used to draw conclusions about a population based on a sample of data. Techniques like hypothesis testing and confidence intervals are examples of inferential statistics.
+
+
 #### 1. Population and Sample
 - **Population**: Population is the set of all possible observations or records (often called cases, subjects, or data points) for a given context of the problem.
 - **Sample**: A sample is a subset of data from a larger data set called population. eg: the opinion polls are based on opinions expressed by a subset of voters called sample.
@@ -61,12 +75,6 @@ Mahalanobis distance and Cook’s distance to identify outliers.
 - Variance: 
 - Standard Deviation (Best Measure)
 - Coefficient of Variation
-
-
-  
-#### Types
-1. Descriptive statistics are used to summarize and describe the characteristics of a dataset. 
-2. Inferential statistics are used to draw conclusions about a population based on a sample of data. Techniques like hypothesis testing and confidence intervals are examples of inferential statistics.
 
 ### D. Statistics Distribution
 - Data distribution is the **frequency distribution** of individual values in a data set.
