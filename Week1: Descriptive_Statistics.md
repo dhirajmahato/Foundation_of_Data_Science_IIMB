@@ -110,8 +110,12 @@ A kurtosis value of 3 indicates standard normal distribution
  
 - **Poisson Distribution**
 - **Exponential Distribution**
+***
+### C. Data Visualisation
+video 1: https://youtu.be/1o_Yo2GD1e8
+video 2: https://youtu.be/1ovUTU0lVdE
 
-### C. Statistical Inference
+### D. Statistical Inference
 #### 1. Hypothesis Testing (Null and Alternative Hypotheses):
 Hypothesis testing is a statistical method used to make inferences about a population based on sample data.
 
