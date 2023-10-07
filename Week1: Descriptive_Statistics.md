@@ -84,11 +84,13 @@ Mahalanobis distance and Cook’s distance to identify outliers.
 #### 5. Measures of Skewness 
 video: https://youtu.be/pKv9rJ09xvc
 
-**Skewness** is a measure of symmetry,or lack of symmetry. That is, the proportion of data between μ and μ - kσ is the same as that between μ and μ+ kσ, where k is a positive constant.
+**Skewness** is a measure of symmetry,or lack of symmetry i.e, the proportion of data between μ and μ - kσ is the same as that between μ and μ+ kσ, where k is a positive constant.
 
 In the context of finance and investment, Skewness is useful for measuring the extreme values of return on investment.
 ![Screenshot from 2023-10-07 10-26-23](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/2f19fa99-2a39-4c58-a2f7-cd1f22e345eb)
 
+**Kurtosis** measures the shape of the tails in comparison to the overall shape, – i.e, whether the tail of the data distribution is heavy or light
+A kurtosis value of 3 indicates standard normal distribution
 
 
 ***
