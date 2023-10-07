@@ -112,8 +112,15 @@ A kurtosis value of 3 indicates standard normal distribution
 - **Exponential Distribution**
 ***
 ### C. Data Visualisation
-video 1: https://youtu.be/1o_Yo2GD1e8
+video 1: https://youtu.be/1o_Yo2GD1e8 <br/>
 video 2: https://youtu.be/1ovUTU0lVdE
+
+EXCEL DEMO
+video 1: https://youtu.be/eamNMEj0GLI <br/>
+video 2: https://youtu.be/5b8kSbvKfdM
+
+TABLEAU
+video: https://youtu.be/UqOPZmknWks
 
 ### D. Statistical Inference
 #### 1. Hypothesis Testing (Null and Alternative Hypotheses):
