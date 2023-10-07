@@ -59,22 +59,23 @@ Central tendency is a statistical measure that represents the center or average 
 - Mode is the best measure for categorical data
 
 #### 4. Measures of Variation/Dispersion
+video1: https://youtu.be/dKb94SGG1DU
 
 Dispersion or variability describes how items are distributed from each other and the centre of a distribution. <br/> Measures of variability are useful in identifying how close the records are to the mean value and outliers in the data. 
 
-Predictive analytics techniques such as regression attempt to explain variation in the outcome variable (Y) using predictor variables (X).
+*Predictive analytics techniques such as regression attempt to explain variation in the outcome variable (Y) using predictor variables (X).*
 If a variable or feature has very low variability, then it is unlikely to have a statistically significant relationship with an outcome variable.
 
 There are 4 methods to measure the dispersion of the data:
-- Range: difference between the maximum and minimum values of the data in the sample, captures the data spread.
+- **Range**: difference between the maximum and minimum values of the data in the sample, captures the data spread.
    - conversion of a continuous number into buckets is a part of feature engineering and may improve the model        
-- Inter Quartile Distance(IQD/IQR): distance between Quartile 1 (Q1) and Quartile 3 (Q3) in a data set.Values of data below Q1 – 1.5 IQD and above Q3 + 1.5 IQD are classified as potential outliers.
+- **Inter Quartile Distance(IQD/IQR)**: distance between Quartile 1 (Q1) and Quartile 3 (Q3) in a data set.Values of data below Q1 – 1.5 IQD and above Q3 + 1.5 IQD are classified as potential outliers.
    -  its use appropriate only in the case of univariate data (data with one dimension). In the case of multivariate data, we use distance measures such as
 Mahalanobis distance and Cook’s distance to identify outliers.
-- Mean Absolute Deviation (MAD): the average deviation from the mean value of the data. MAD is always finite and defined
-- Variance: 
-- Standard Deviation (Best Measure)
-- Coefficient of Variation
+- **Mean Absolute Deviation (MAD)**: the average deviation from the mean value of the data. MAD is always finite and defined
+- **Variance**: 
+- **Standard Deviation (Best Measure)**
+- **Coefficient of Variation**
 
 ### D. Statistics Distribution
 - Data distribution is the **frequency distribution** of individual values in a data set.
@@ -98,10 +99,10 @@ Mahalanobis distance and Cook’s distance to identify outliers.
 Hypothesis testing is a statistical method used to make inferences about a population based on sample data.
 
 Common assumptions include:
-- Independence: The observations in the sample are independent of each other.
-- Random sampling: The sample is representative of the population being studied.
-- Normality: The data or test statistics follow a normal distribution.
-- Homogeneity a of variance: The variance of the variables is equal across groups being compared.
+- **Independence**: The observations in the sample are independent of each other.
+- **Random sampling**: The sample is representative of the population being studied.
+- **Normality**: The data or test statistics follow a normal distribution.
+- **Homogeneity a of variance**: The variance of the variables is equal across groups being compared.
 
 #### 2. Type I and Type II Errors:
 #### 3. Confidence Intervals:
