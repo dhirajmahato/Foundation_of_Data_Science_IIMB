@@ -59,7 +59,9 @@ Central tendency is a statistical measure that represents the center or average 
 - Mode is the best measure for categorical data
 
 #### 4. Measures of Variation/Dispersion
-video1: https://youtu.be/dKb94SGG1DU
+video1: https://youtu.be/dKb94SGG1DU <br/>
+video2: https://youtu.be/ejkqYGHEYzs
+
 
 Dispersion or variability describes how items are distributed from each other and the centre of a distribution. <br/> Measures of variability are useful in identifying how close the records are to the mean value and outliers in the data. 
 
@@ -76,6 +78,16 @@ Mahalanobis distance and Cook’s distance to identify outliers.
 - **Variance**: 
 - **Standard Deviation (Best Measure)**
 - **Coefficient of Variation**
+
+#### 5. Measures of Skewness 
+video: https://youtu.be/pKv9rJ09xvc
+
+**Skewness** is a measure of symmetry,or lack of symmetry. That is, the proportion of data between μ and μ - kσ is the same as that between μ and μ+ kσ, where k is a positive constant.
+
+In the context of finance and investment, Skewness is useful for measuring the extreme values of return on investment.
+
+
+
 
 ### D. Statistics Distribution
 - Data distribution is the **frequency distribution** of individual values in a data set.
