@@ -91,7 +91,7 @@ In the context of finance and investment, Skewness is useful for measuring the e
 
 
 ***
-### D. Statistics Distribution
+### B. Statistics Distribution
 - Data distribution is the **frequency distribution** of individual values in a data set.
   
 - **Probability distributions** describe the likelihood of different outcomes in a random event.
@@ -108,7 +108,7 @@ In the context of finance and investment, Skewness is useful for measuring the e
 - **Poisson Distribution**
 - **Exponential Distribution**
 
-### E. Statistical Inference
+### C. Statistical Inference
 #### 1. Hypothesis Testing (Null and Alternative Hypotheses):
 Hypothesis testing is a statistical method used to make inferences about a population based on sample data.
 
