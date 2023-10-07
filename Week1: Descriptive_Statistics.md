@@ -10,6 +10,7 @@
 | 1. Summarize your sample data,<br/> 2. Make estimates about the population,<br/> 3. And test hypotheses.| **Thematic analysis**,  which focuses on finding patterns in the data. You label recurring topics or concepts  and then group them into broad themes.<br/> **Discourse analysis**,  which pays more attention to things like social context and structure. You analyze not  only what is said, but also how it’s said.  | 
 | **Descriptive statistics** like the mean to test a hypothesis about a relationship  between variables, you can use a statistical test. <br/> a. Regression and correlation tests look for  associations between two or more variables. <br/> b. Comparison tests, such as t-tests and ANOVAs, look for differences in the  outcomes of different groups.|   |
 
+***
 
 #### Types
 1. **Descriptive statistics** are used to summarize and describe the characteristics of a dataset.
@@ -41,6 +42,7 @@ industry type (manufacturing, healthcare, banking, insurance, and finance)
    - **Ordinal scale** is a variable type in which the value of the variable is captured from a rank ordered set. eg: g 5-point Likert scale in which 1 = Poor, 2 = Fair, 3 = Good, 4 = Very Good, and 5 = Excellent.
    - An **Interval scale** corresponds to a variable type in which the value of the variable is chosen from an interval set. In an interval scale, the ratios do not make sense.  The reference point is fixed arbitrarily. eg: Variables such as temperature measured in centigrade (oC) and intelligence quotient (IQ) score are examples of interval scales.
 
+___
 
 #### 3. Measures of Central Tendency
 
@@ -88,7 +90,7 @@ In the context of finance and investment, Skewness is useful for measuring the e
 
 
 
-
+***
 ### D. Statistics Distribution
 - Data distribution is the **frequency distribution** of individual values in a data set.
   
