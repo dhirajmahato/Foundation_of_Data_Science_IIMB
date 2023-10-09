@@ -54,5 +54,5 @@ used to significantly improve the revenues of an organization.<br/>
 - The strength of association between two mutually exclusive subsets of SKUs(Stock Keeping Units) can be measured using **‘support’, ‘confidence’, and ‘lift’**.
   - Support = 𝑃(𝑋 ∩ 𝑌)
   - Confidence = P(Y | X )
-  - Lift =𝑃(𝑋 ∩ 𝑌) / 𝑃(𝑋) ∗ 𝑃(𝑌)
+  - Lift = 𝑃(𝑋 ∩ 𝑌) / 𝑃(𝑋) ∗ 𝑃(𝑌)
 
