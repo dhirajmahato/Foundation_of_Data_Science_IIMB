@@ -60,3 +60,11 @@ used to significantly improve the revenues of an organization.<br/>
     - If the Lift is less than 1 then the products are substitutable. 
 
 ### Bayes Theorem
+Naïve Bayes algorithm is one of the more popular algorithms used in classification problems such as text classification and sentiment analysis.
+
+Objective:
+- Bayes’ theorem helps data scientists update the probability of an event when any additional information is provided.
+- Bayesian statistics helps decision makers with fine-tuning their beliefs with each additional data received.
+- Prior-probability and Posterior probability.
+
+  
