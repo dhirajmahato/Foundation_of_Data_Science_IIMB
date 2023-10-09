@@ -33,10 +33,19 @@ Following Elementary Rules:
 
 #### 1. Marginal Probability
 
-Marginal probability is simply the probability of an event X, denoted by P(X), without any prior conditions. unconditional probability that is known as Marginal Probability.
+Marginal probability is simply the probability of an event X, denoted by P(X), without any prior conditions. unconditional probability which is known as Marginal Probability.
 
 #### 2. Joint Probability
-Let A and B be two events in a sample space. joint probability of the two events, written as P (A∩B)
+Let A and B be two events in a sample space. Joint probability of the two events, written as P (A∩B)
 
 ### Association Rule Learning
-a methhod of finding association between different entities in a database. In a retail context, association rule learning is a method to find association relationships that exist between frequently purchased items.
+A method of finding associations between different entities in a database. <br/>In a retail context, association rule learning is a method to find association relationships that exist between frequently purchased items.
+
+> Simple probability concepts such as joint probability and conditional probability can be used for solving analytics problems such as **market basket analysis (MBA)** and **recommender systems** using algorithms such as Association Rule Learning (aka Association Rule Mining).<br/>
+> One can create a recommender system using simple association rule mining. Recommender systems are an important analytics technique that can be
+used to significantly improve the revenues of an organization.<br/>
+> The primary objective of MBA and recommender systems is to find the probability of buying two products (A and B) together.
+
+- Association rules can be created using point of sale (PoS) data from retail stores.
+- The strength of association between two mutually exclusive subsets of SKUs(Stock Keeping Units) can be measured using **‘support’, ‘confidence’, and ‘lift’**.
+
