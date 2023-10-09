@@ -18,7 +18,14 @@ Video 2: https://youtu.be/CKqLWHObc_U
 ### Fundamental Concept of Probability
 
 #### Axioms of Probability
-video: https://youtu.be/EWQ094BTaHM
+video: https://youtu.be/EWQ094BTaHM<br/>
+Axioms:
+1. The probability of event E always lies between 0 and 1. That is, 0 ≤ P(E) ≤   1.
+2. The probability of the universal set or sample space, S, is 1. That is, P(S) = 1.
+3. P(X ∩ Y) = P(X) + P(Y), where X and Y are two mutually exclusive events.
+
+Following Elementary Rules:
+P(A') = 1 – P(A)
 
 #### 1. Marginal Probability
 
