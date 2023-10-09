@@ -39,8 +39,9 @@ Marginal probability is simply the probability of an event X, denoted by P(X), w
 Let A and B be two events in a sample space. Joint probability of the two events, written as P (A∩B)
 
 ### Association Rule Learning
-video1: https://youtu.be/bJ903GwyeKs
+video1: https://youtu.be/bJ903GwyeKs <br/>
 video2: https://youtu.be/YM1BtNlUgY4
+
 A method of finding associations between different entities in a database.
 
 > Simple probability concepts such as joint probability and conditional probability can be used for solving analytics problems such as **market basket analysis (MBA)** and **recommender systems** using algorithms such as Association Rule Learning (aka Association Rule Mining).<br/>
@@ -51,6 +52,7 @@ used to significantly improve the revenues of an organization.<br/>
 - In a retail context, association rule learning is a method to find association relationships that exist between frequently purchased items.  
 - Association rules can be created using point of sale (PoS) data from retail stores.
 - The strength of association between two mutually exclusive subsets of SKUs(Stock Keeping Units) can be measured using **‘support’, ‘confidence’, and ‘lift’**.
-  - Support = P( X ∩ Y )
-  - Confidence = P(Y | X ) 
+  - Support = 𝑃(𝑋 ∩ 𝑌)
+  - Confidence = P(Y | X )
+  - Lift =𝑃(𝑋 ∩ 𝑌) / 𝑃(𝑋) ∗ 𝑃(𝑌)
 
