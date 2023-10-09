@@ -37,3 +37,6 @@ Marginal probability is simply the probability of an event X, denoted by P(X), w
 
 #### 2. Joint Probability
 Let A and B be two events in a sample space. joint probability of the two events, written as P (A∩B)
+
+### Association Rule Learning
+a methhod of finding association between different entities in a database. In a retail context, association rule learning is a method to find association relationships that exist between frequently purchased items.
