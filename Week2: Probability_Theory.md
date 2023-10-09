@@ -39,6 +39,8 @@ Marginal probability is simply the probability of an event X, denoted by P(X), w
 Let A and B be two events in a sample space. Joint probability of the two events, written as P (A∩B)
 
 ### Association Rule Learning
+video1: https://youtu.be/bJ903GwyeKs
+video2: https://youtu.be/YM1BtNlUgY4
 A method of finding associations between different entities in a database.
 
 > Simple probability concepts such as joint probability and conditional probability can be used for solving analytics problems such as **market basket analysis (MBA)** and **recommender systems** using algorithms such as Association Rule Learning (aka Association Rule Mining).<br/>
