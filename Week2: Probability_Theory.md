@@ -55,4 +55,8 @@ used to significantly improve the revenues of an organization.<br/>
   - Support = 𝑃(𝑋 ∩ 𝑌)
   - Confidence = P(Y | X )
   - Lift = 𝑃(𝑋 ∩ 𝑌) / 𝑃(𝑋) ∗ 𝑃(𝑌)
+    - A necessary condition for association (complementarity) between two set of entities is that the Lift should be greater than 1.
+    - If the Lift is 1, then the product purchases are independent
+    - If the Lift is less than 1 then the products are substitutable. 
 
+### Bayes Theorem
