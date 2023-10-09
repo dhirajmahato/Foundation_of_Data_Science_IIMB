@@ -25,7 +25,11 @@ Axioms:
 3. P(X ∩ Y) = P(X) + P(Y), where X and Y are two mutually exclusive events.
 
 Following Elementary Rules:
-P(A') = 1 – P(A)
+1. P(A') = 1 – P(A)
+2. P(∅) = 0 
+3. P(A) ≤ P(B), where event class A is a subset of event class B
+4. P(A ∪ B) = P(A) + P(B) - P(A ∩ B), either event A or event B occurs or that both occur simultaneously
+5. P(A ∪ B) = P(A) + P(B), A and B are mutually exclusive events,
 
 #### 1. Marginal Probability
 
