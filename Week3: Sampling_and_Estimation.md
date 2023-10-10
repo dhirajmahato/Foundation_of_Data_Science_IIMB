@@ -50,4 +50,9 @@ In Non-probability sampling, the selection of sample units from the population d
 
 - Estimation based on non probability sampling may be biased.
 - Convenience sampling and Voluntary sampling are non-probability sampling techniques in which the sample units are not selected according to a probability distribution.
-   
+
+### Sampling Distribution
+Sampling distribution refers to the probability distribution of a statistic such as sample mean or sample standard deviation, computed from several random samples of the same size.
+
+- Understanding the sampling distribution is important for hypothesis testing.  
+- In hypothesis testing, the test statistic is derived based on the knowledge of sampling distribution.   
