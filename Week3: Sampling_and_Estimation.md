@@ -34,3 +34,20 @@ scale, shape, and location of parameters
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/c1f6e4d0-5f48-4176-a328-5dcaef8904e9)
 
 ### Probabilistic Sampling
+In Probabilistic sampling, individual observations in the sample are selected from the population according to a probability distribution. 
+
+- Random sampling is one of the most popular and frequently used sampling methods. 
+- Random sampling is ideal when the population is homogeneous.
+- Stratified sampling is necessary when the population is heterogeneous.
+- In a stratified sample, all strata will be represented in the sample, whereas in a cluster sampling, not all clusters will be represented.
+- Bagging is sampling with replacement used in machine learning algorithms, especially in the random forest algorithm.
+
+video1: https://youtu.be/lGG89Ec3jq0
+video2: https://youtu.be/ltIBMP-6yNs
+
+### Non-Probabilistic Sampling
+In Non-probability sampling, the selection of sample units from the population does not follow any probability distribution. Sample units are selected based on convenience and/or on voluntary basis.
+
+- Estimation based on non probability sampling may be biased.
+- Convenience sampling and Voluntary sampling are non-probability sampling techniques in which the sample units are not selected according to a probability distribution.
+   
