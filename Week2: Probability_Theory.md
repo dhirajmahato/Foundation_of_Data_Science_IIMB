@@ -140,4 +140,16 @@ Cumulative distribution function F(a) is the area under the probability density 
 
 - If the number of trials (n) in a binomial distribution is large, then it can be approximated by using a normal distribution with mean np and variance npq (where q = 1-p).
 
+A random variable X is said to follow a Binomial distribution when:
+1. The random variable can have only two outcomes labelled success and failure (also known as Bernoulli trials).
+2. *The objective is to find the probability of getting k successes out of n trials (k ≤ n).*
+3. The probability of success is p and thus the probability of failure is (1-p).
+4. The probability p is constant and does not change between trials.
+5. The trials are independent.
 
+The following example problems can be associated with Bernoulli trials and Binomial distribution:
+1. Customer churn where the outcomes are: (a). Customer churn and (b). No customer churn.
+2. Fraudulent insurance claims where the outcomes are: (a). Fraudulent claim and (b). Genuine claim.
+3. Loan repayment default by a customer where the outcomes are: (a). Default and (b). No default.
+4. Cart abandonment in e-commerce (a situation where the customer adds items to his/her cart but does not make the purchase), in this case the outcomes are: (a). Cart abandonment and (b). No cart abandonment.
+5. Employee attrition at a company where the outcomes are: (a). The employee leaves the company and (b). The employee does not leave the company
