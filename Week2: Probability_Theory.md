@@ -60,11 +60,27 @@ used to significantly improve the revenues of an organization.<br/>
     - If the Lift is less than 1 then the products are substitutable. 
 
 ### Bayes Theorem
-Naïve Bayes algorithm is one of the more popular algorithms used in classification problems such as text classification and sentiment analysis.
+video1: https://youtu.be/qufrBR-LTEM
+
+**Naïve Bayes algorithm** is one of the more popular algorithms used in classification problems such as text classification and sentiment analysis.
 
 Objective:
-- Bayes’ theorem helps data scientists update the probability of an event when any additional information is provided.
-- Bayesian statistics helps decision makers with fine-tuning their beliefs with each additional data received.
-- Prior-probability and Posterior probability.
+- **Bayes’ theorem** helps data scientists update the probability of an event when any additional information is provided.
+- **Bayesian statistics** helps decision makers with fine-tuning their beliefs with each additional data received.
+- *Prior-probability* and *Posterior probability*.
+
+#### Bayes' Theorem
+P(B|A) = P(A|B) ∗ P(B) / P(A)
+
+where  P(B) is Prior-probability ;  P(B|A) is Posterior probability ;  P(A|B) - likelihood of event A when event is B is true.
+
+> Monty Hall Problem
+
+#### Generalization of Bayes's Theorem
+P(A) = P(A,B1) + P(A,B2) + P(A,B3) .....<br/>
+P(A) = P(A|B1)∗P(B1) + P(A|B2)∗P(B2) +P(A|B3)∗P(B3) .....
+
+
+
 
   
