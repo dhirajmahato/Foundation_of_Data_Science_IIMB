@@ -83,9 +83,8 @@ P(A) = P(A|B1)∗P(B1) + P(A|B2)∗P(B2) +P(A|B3)∗P(B3) .....
 Example: https://youtu.be/h9w6rmybrds
 
 #### Random Variables
-video1 : https://youtu.be/NDXW52R18aI
+video1 : https://youtu.be/NDXW52R18aI <br/>
 video2 (Discrete / Continuous): https://youtu.be/ByyhevguW30
-
   
 Outcome of a random experiment may be recorded in different format. Outcomes of experiments may be recorded in numerical or nonnumerical terms.
 For every random experiment, we can define a function that maps the outcome of the sample space to a real number.
@@ -97,3 +96,13 @@ For every random experiment, we can define a function that maps the outcome of t
 example: The sample space discussed earlier S = {GGGG, GGGF, GGFG, …} will be mapped to a real number set S = {0, 1, 2, 3, 4}, which is often the interest of the analyst.
 
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/b2c97ce7-0050-4b2f-8bd7-8758bb6fc567)
+
+If the random variable X can assume only a finite or countably infinite set of values, then it is called a **discrete random variable**.
+- In a classification problem, the outcome variable takes either two values (binary class classification) or more than two values (multi-class classification).
+  
+**Probability mass function** is a function that maps each outcome of a random experiment to a probability.
+![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/61868570-b70f-49ce-baba-1d0607451003)
+
+**Cumulative distribution function, F(xi)**, is the probability that the random variable X takes values less than or equal to xi.
+- F(xi) = P(X ≤ xi)
+- F(2) = P(X ≤ 2) = P(X = 0) + P(X = 1) + P(X = 2)
