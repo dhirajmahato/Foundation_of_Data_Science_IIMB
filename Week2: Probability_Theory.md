@@ -156,9 +156,11 @@ The following example problems can be associated with Bernoulli trials and Binom
 4. Cart abandonment in e-commerce (a situation where the customer adds items to his/her cart but does not make the purchase), in this case the outcomes are: (a). Cart abandonment and (b). No cart abandonment.
 5. Employee attrition at a company where the outcomes are: (a). The employee leaves the company and (b). The employee does not leave the company
 
-**Probalily mass function of Binomial Distribution**<br/>
-PMF(X)= P(X=x)=f(x)
-![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/76be5f1b-bbde-411d-b7d4-5295e14db981)
+**Probalily mass function of Binomial Distribution**
+
+PMF(X)= P(X=x)= f(x) = $\binom{n}{k} p^x (1-p)^x$
+
+$\frac{n!}{k!(n - k)!} = \binom{n}{k}$
 
 where n= number of trials<br/>
     k = number of successes<br/>
