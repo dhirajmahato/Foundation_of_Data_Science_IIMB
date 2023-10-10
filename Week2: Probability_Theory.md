@@ -108,7 +108,7 @@ example: The sample space discussed earlier S = {GGGG, GGGF, GGFG, …} will be 
 If the random variable X can assume only a finite or countably infinite set of values, then it is called a **discrete random variable**.
 - In a classification problem, the outcome variable takes either two values (binary class classification) or more than two values (multi-class classification).
   
-**Probability mass function** is a function that maps each outcome of a random experiment to a probability. the probability that a random variable X takes a specific value xi, P(X = xi), is called the probability mass function, P(xi)
+**Probability mass function (PMF)** is a function that maps each outcome of a random experiment to a probability. the probability that a random variable X takes a specific value xi, P(X = xi), is called the probability mass function, P(xi)
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/61868570-b70f-49ce-baba-1d0607451003)
 
 **Cumulative distribution function, F(xi)**, is the probability that the random variable X takes values less than or equal to xi.
@@ -136,6 +136,8 @@ Cumulative distribution function F(a) is the area under the probability density 
 ***
 
 #### Binomial Distribution
+video: https://youtu.be/vYquXgXyW38
+
 *"Any business context in which there are only two outcomes, can be analysed using Binomial distribution"*
 
 - If the number of trials (n) in a binomial distribution is large, then it can be approximated by using a normal distribution with mean np and variance npq (where q = 1-p).
@@ -153,3 +155,16 @@ The following example problems can be associated with Bernoulli trials and Binom
 3. Loan repayment default by a customer where the outcomes are: (a). Default and (b). No default.
 4. Cart abandonment in e-commerce (a situation where the customer adds items to his/her cart but does not make the purchase), in this case the outcomes are: (a). Cart abandonment and (b). No cart abandonment.
 5. Employee attrition at a company where the outcomes are: (a). The employee leaves the company and (b). The employee does not leave the company
+
+**Probalily mass function of Binomial Distribution**<br/>
+PMF(X)= P(X=x)=f(x)
+![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/76be5f1b-bbde-411d-b7d4-5295e14db981)
+
+where n= number of trials<br/>
+    k = number of successes<br/>
+    p = probability of success k
+
+**CDF of a binomial distribution function, F(a)**, representing the probability that the random variable X
+takes a value less than or equal to a, is given by: <br/>
+
+F(a) = P(X ≤ a) = $\sum_{k=1}^a P(X=k)$
