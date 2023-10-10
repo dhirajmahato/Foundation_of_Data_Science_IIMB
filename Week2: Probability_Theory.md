@@ -88,7 +88,7 @@ Example: https://youtu.be/h9w6rmybrds
 
 ***
 
-#### Random Variables
+### Random Variables
 video1 : https://youtu.be/NDXW52R18aI <br/>
 video2 (Discrete / Continuous): https://youtu.be/ByyhevguW30
   
@@ -135,7 +135,7 @@ Cumulative distribution function F(a) is the area under the probability density 
 
 ***
 
-#### Binomial Distribution
+### 1. Binomial Distribution
 video: https://youtu.be/vYquXgXyW38
 
 *"Any business context in which there are only two outcomes, can be analysed using Binomial distribution"*
@@ -177,8 +177,46 @@ $$F(a) = P(X ≤ a) = \sum_{k=1}^a P(X=k)$$
 **Mean and Variance of Binomial Distribution**
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/3dc8b8df-dae3-4970-8fad-bb390f4494d2)
 
+Application : https://youtu.be/4yFPMliPlDM
+
+***
+
+### 2. Poisson Distribution
+
+Poisson distribution is used to model the number of events occurring within a given time interval.
+- λ is the shape parameter which indicates the average number of events in the given time interval.
+
+
+
+***
+
+### 3. Geometric Distribution
 
 
 
 
+***
 
+### 4. Uniform Distribution
+
+
+***
+
+### 5.Exponential Distribution
+
+
+***
+
+### 6. Normal Distribution
+
+
+
+***
+
+### 7. Chi-square Distribution
+
+
+
+***
+
+### 8. F-Distribution
