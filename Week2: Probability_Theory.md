@@ -108,7 +108,7 @@ example: The sample space discussed earlier S = {GGGG, GGGF, GGFG, …} will be 
 If the random variable X can assume only a finite or countably infinite set of values, then it is called a **discrete random variable**.
 - In a classification problem, the outcome variable takes either two values (binary class classification) or more than two values (multi-class classification).
   
-**Probability mass function** is a function that maps each outcome of a random experiment to a probability.
+**Probability mass function** is a function that maps each outcome of a random experiment to a probability. the probability that a random variable X takes a specific value xi, P(X = xi), is called the probability mass function, P(xi)
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/61868570-b70f-49ce-baba-1d0607451003)
 
 **Cumulative distribution function, F(xi)**, is the probability that the random variable X takes values less than or equal to xi.
@@ -126,8 +126,12 @@ video: https://youtu.be/Xu2nSx0ztog
 **Probability Density Function (pdf) and Cumulative Distribution Function (CDF) of a Continuous Random Variable**
 
 Probability density function, f(xi), is defined as probability that the value of random variable X lies between an infinitesimally small interval defined by xi and xi + δx
+
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/beb40eb8-b4b1-4f19-94a6-4e3f489ff487)
 
+Cumulative distribution function F(a) is the area under the probability density function up to X = a.
 
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/0446149e-3b7c-433e-9b14-af988df5288a)
+
+***
 
