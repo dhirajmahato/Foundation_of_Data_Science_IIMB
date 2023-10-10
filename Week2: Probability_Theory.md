@@ -83,7 +83,11 @@ P(A) = P(A|B1)∗P(B1) + P(A|B2)∗P(B2) +P(A|B3)∗P(B3) .....
 Example: https://youtu.be/h9w6rmybrds
 
 #### Random Variables
-outcome of a random experiment may be recorded in different format. Outcomes of experiments may be recorded in numerical or nonnumerical terms.
+video1 : https://youtu.be/NDXW52R18aI
+video2 (Discrete / Continuous): https://youtu.be/ByyhevguW30
+
+  
+Outcome of a random experiment may be recorded in different format. Outcomes of experiments may be recorded in numerical or nonnumerical terms.
 For every random experiment, we can define a function that maps the outcome of the sample space to a real number.
 
 - A random variable is defined as a function that assigns a real number to each sample point in the sample space S.
@@ -91,4 +95,5 @@ For every random experiment, we can define a function that maps the outcome of t
 - Random variables are usually denoted using capital letters, such as X, Y, and Z, whereas small letters, such as x, y, z, a, b, c, and so on, are used to denote precise value of a random variable.
 
 example: The sample space discussed earlier S = {GGGG, GGGF, GGFG, …} will be mapped to a real number set S = {0, 1, 2, 3, 4}, which is often the interest of the analyst.
+
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/b2c97ce7-0050-4b2f-8bd7-8758bb6fc567)
