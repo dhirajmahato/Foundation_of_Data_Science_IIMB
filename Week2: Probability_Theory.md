@@ -140,7 +140,7 @@ video: https://youtu.be/vYquXgXyW38
 
 *"Any business context in which there are only two outcomes, can be analysed using Binomial distribution"*
 
-- If the number of trials (n) in a binomial distribution is large, then it can be approximated by using a normal distribution with mean np and variance npq (where q = 1-p).
+> If the number of trials (n) in a binomial distribution is large, then it can be approximated by using a normal distribution with mean np and variance npq (where q = 1-p).
 
 A random variable X is said to follow a Binomial distribution when:
 1. The random variable can have only two outcomes labelled success and failure (also known as Bernoulli trials).
@@ -168,3 +168,15 @@ where n= number of trials<br/>
 takes a value less than or equal to a, is given by: <br/>
 
 F(a) = P(X ≤ a) = $\sum_{k=1}^a P(X=k)$
+
+![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/9faab291-29a7-4469-950d-618e615f004e)
+![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/6ca70fea-9353-477d-87b3-7c9c7007f661)
+
+**Mean and Variance of Binomial Distribution**
+![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/3dc8b8df-dae3-4970-8fad-bb390f4494d2)
+
+
+
+
+
+
