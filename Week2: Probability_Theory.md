@@ -135,3 +135,9 @@ Cumulative distribution function F(a) is the area under the probability density 
 
 ***
 
+#### Binomial Distribution
+*"Any business context in which there are only two outcomes, can be analysed using Binomial distribution"*
+
+- If the number of trials (n) in a binomial distribution is large, then it can be approximated by using a normal distribution with mean np and variance npq (where q = 1-p).
+
+
