@@ -38,6 +38,8 @@ Marginal probability is simply the probability of an event X, denoted by P(X), w
 #### 2. Joint Probability
 Let A and B be two events in a sample space. Joint probability of the two events, written as P (A∩B)
 
+***
+
 ### Association Rule Learning
 video1: https://youtu.be/bJ903GwyeKs <br/>
 video2: https://youtu.be/YM1BtNlUgY4
@@ -58,6 +60,8 @@ used to significantly improve the revenues of an organization.<br/>
     - A necessary condition for association (complementarity) between two set of entities is that the Lift should be greater than 1.
     - If the Lift is 1, then the product purchases are independent
     - If the Lift is less than 1 then the products are substitutable. 
+
+***
 
 ### Bayes Theorem
 video1: https://youtu.be/qufrBR-LTEM
@@ -81,7 +85,9 @@ P(A) = P(A,B1) + P(A,B2) + P(A,B3) .....<br/>
 P(A) = P(A|B1)∗P(B1) + P(A|B2)∗P(B2) +P(A|B3)∗P(B3) .....
 
 Example: https://youtu.be/h9w6rmybrds
+
 ***
+
 #### Random Variables
 video1 : https://youtu.be/NDXW52R18aI <br/>
 video2 (Discrete / Continuous): https://youtu.be/ByyhevguW30
@@ -97,7 +103,7 @@ example: The sample space discussed earlier S = {GGGG, GGGF, GGFG, …} will be 
 
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/b2c97ce7-0050-4b2f-8bd7-8758bb6fc567)
 
-**Discrete Random Variable**
+**A. Discrete Random Variable**
 
 If the random variable X can assume only a finite or countably infinite set of values, then it is called a **discrete random variable**.
 - In a classification problem, the outcome variable takes either two values (binary class classification) or more than two values (multi-class classification).
@@ -112,6 +118,16 @@ If the random variable X can assume only a finite or countably infinite set of v
 **Expected Value, Variance, and Standard Deviation of a Discrete Random Variable**
 video: https://youtu.be/Xu2nSx0ztog
 
-**Continuous Random Variables**
+**B. Continuous Random Variable**
 - A continuous random variable is a random variable where the set of values it can take is not countable and its cumulative distribution function can be obtained by integrating a function called probability density function.
+- Probability density function reflects the density of the likelihood of a continuous random variable X taking a value in an infinitesimally small interval around value x.
 - The probability between two values a and b, P(a <= X <=b), is the area between the values a and b under the probability density function.
+
+**Probability Density Function (pdf) and Cumulative Distribution Function (CDF) of a Continuous Random Variable**
+
+Probability density function, f(xi), is defined as probability that the value of random variable X lies between an infinitesimally small interval defined by xi and xi + δx
+![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/beb40eb8-b4b1-4f19-94a6-4e3f489ff487)
+
+
+![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/0446149e-3b7c-433e-9b14-af988df5288a)
+
