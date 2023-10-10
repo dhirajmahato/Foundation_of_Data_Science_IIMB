@@ -81,7 +81,7 @@ P(A) = P(A,B1) + P(A,B2) + P(A,B3) .....<br/>
 P(A) = P(A|B1)∗P(B1) + P(A|B2)∗P(B2) +P(A|B3)∗P(B3) .....
 
 Example: https://youtu.be/h9w6rmybrds
-
+***
 #### Random Variables
 video1 : https://youtu.be/NDXW52R18aI <br/>
 video2 (Discrete / Continuous): https://youtu.be/ByyhevguW30
@@ -97,6 +97,8 @@ example: The sample space discussed earlier S = {GGGG, GGGF, GGFG, …} will be 
 
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/b2c97ce7-0050-4b2f-8bd7-8758bb6fc567)
 
+**Discrete Random Variable**
+
 If the random variable X can assume only a finite or countably infinite set of values, then it is called a **discrete random variable**.
 - In a classification problem, the outcome variable takes either two values (binary class classification) or more than two values (multi-class classification).
   
@@ -106,3 +108,10 @@ If the random variable X can assume only a finite or countably infinite set of v
 **Cumulative distribution function, F(xi)**, is the probability that the random variable X takes values less than or equal to xi.
 - F(xi) = P(X ≤ xi)
 - F(2) = P(X ≤ 2) = P(X = 0) + P(X = 1) + P(X = 2)
+
+**Expected Value, Variance, and Standard Deviation of a Discrete Random Variable**
+video: https://youtu.be/Xu2nSx0ztog
+
+**Continuous Random Variables**
+- A continuous random variable is a random variable where the set of values it can take is not countable and its cumulative distribution function can be obtained by integrating a function called probability density function.
+- The probability between two values a and b, P(a <= X <=b), is the area between the values a and b under the probability density function.
