@@ -56,3 +56,6 @@ Sampling distribution refers to the probability distribution of a statistic such
 
 - Understanding the sampling distribution is important for hypothesis testing.  
 - In hypothesis testing, the test statistic is derived based on the knowledge of sampling distribution.   
+
+### Central Limit Theorem (CLT)
+
