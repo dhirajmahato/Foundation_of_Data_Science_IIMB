@@ -62,6 +62,6 @@ Sampling distribution refers to the probability distribution of a statistic such
 Video1: https://youtu.be/-lnasuJ4GKY <br/>
 Video2: https://youtu.be/1bGMWcRShzw
 
-For a large sample drawn from a population with mean U and standard deviation e, the distribution of the sample mean  with mean Xbar and standard deviation sig/root n will approach a normal distribution regardless of the initial distribution of the random variable.
+For a large sample drawn from a population with mean (µ) and standard deviation (σ), the distribution of the sample mean  with mean (X̄) and standard deviation (σ/√n) will approach a normal distribution regardless of the initial distribution of the population.
 
 ### Sample Size Estimation   
