@@ -52,10 +52,16 @@ In Non-probability sampling, the selection of sample units from the population d
 - Convenience sampling and Voluntary sampling are non-probability sampling techniques in which the sample units are not selected according to a probability distribution.
 
 ### Sampling Distribution
-Sampling distribution refers to the probability distribution of a statistic such as sample mean or sample standard deviation, computed from several random samples of the same size.
+Sampling distribution refers to the probability distribution of a statistic such as *sample mean* or *sample standard deviation*, computed from several random samples of the same size.
 
 - Understanding the sampling distribution is important for hypothesis testing.  
 - In hypothesis testing, the test statistic is derived based on the knowledge of sampling distribution.   
 
 ### Central Limit Theorem (CLT)
 
+Video1: https://youtu.be/-lnasuJ4GKY <br/>
+Video2: https://youtu.be/1bGMWcRShzw
+
+For a large sample drawn from a population with mean U and standard deviation e, the distribution of the sample mean  with mean Xbar and standard deviation sig/root n will approach a normal distribution regardless of the initial distribution of the random variable.
+
+### Sample Size Estimation   
