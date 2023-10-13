@@ -34,7 +34,12 @@ Null hypothesis i.e no relationship b/w variable under consideration
   - enables us to calculate (p-value) evidence against null hypothesis, 
   - depends on the probability dist of the sampling distribution.
 4. **Decision Criteria – Significance Value, α** ---> https://youtu.be/x2-RiAzmXho
-5. **p-value**: which is the conditional probability of observing a **test statistic** value as extreme as the one observed in the sample, given the null hypothesis is true.
+5. **p-value**: which is the conditional probability of observing a test statistic value as extreme as the one observed in the sample, given the null hypothesis is true.
+    - It quantifies the likelihood of observing the data or more extreme data if the null hypothesis a were true.
+    - A p-value is a probability that measures the strength of evidence against the null hypothesis (H0) in a hypothesis test.
+    - The p-value ranges between 0 and 1, where a smaller p-value indicates stronger evidence against the null hypothesis
+
+**Example**: In a hypothesis test, if the p-value is less than a pre-defined significance level (e.g., 0.05), it is considered statistically significant, and you reject the null hypothesis (H0) in favor of the alternative hypothesis (Ha).
 
 |criteria |                  |
 |-----------|------------------|
@@ -71,12 +76,30 @@ A one-tailed test and a two-tailed test are alternative ways of computing the st
 
 video: https://youtu.be/3OO63srgchM
 
-**Type I Error/False Positive:**
+**Type I Error/False Positive:** It is the probability of falsely claiming an effect or difference.  
 - The conditional probability of rejecting the null hypothesis when it is true.
 - The significance value α is the maximum value of Type I error
 - Type I error = α = P(Rejecting null hypothesis | H0 is true)
 
-**Type II Error/ False Negative:**
+**Type II Error/ False Negative:**  It is the probability of missing a true effect or difference.
 - The conditional probability of failing to reject(retain) a null hypothesis is true is called Type II Error.
 - Usually denoted by β
 - Type II error = β = P(retain null hypothesis | H0 is false)
+
+**Example**: In a clinical trial, a Type I error would mean falsely concluding that the drug is
+effective when it actually has no effect. A Type II error would mean failing to identify the
+drug's effectiveness when it does have an effect.
+
+
+**Power of the test:(1-β)**
+
+#### Hypothesis Testing for Population Mean with known Variance: Z-Test
+video : https://youtu.be/T3ujcnOAB-w
+
+Z-test (also known as one-sample Z-test) is used when a claim (hypothesis) is made about the population parameter such as population mean or proportion. 
+- Z-test uses CLT to conduct a hypothesis test for population mean when the population variance is known.
+- The test statistics here called Z statistics
+  - The *critical value* in this case will depend on the significance value **α** and whether it is a **one-tailed or two-tailed test.**
+ 
+**one-sample Z-test** used when:
+1. 
