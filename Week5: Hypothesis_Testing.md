@@ -93,6 +93,8 @@ drug's effectiveness when it does have an effect.
 
 **Power of the test:(1-β)**
 
+***
+
 #### Hypothesis Testing for Population Mean with known Variance: Z-Test
 video : https://youtu.be/T3ujcnOAB-w
 
@@ -110,5 +112,12 @@ Z-test (also known as one-sample Z-test) is used when a claim (hypothesis) is ma
 
 #### Z-Test for Proportion
 video: https://youtu.be/ZQDcJo1gb7g
+
+***
+#### Hypothesis Test for Population Mean under Unknown Population Variance: t-Test
+
+- The t-test is used when the population follows a normal distribution and the population standard deviation is unknown and is estimated from the sample.
+- Test statistic follows a t-distribution with n-1 degrees of freedom.
+- One degree of freedom is lost since the standard deviation is estimated from the sample.
 
 
