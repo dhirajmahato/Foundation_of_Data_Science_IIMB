@@ -14,8 +14,8 @@ Hypothesis testing is used to establish evidence of an association relationship 
 ### Setting up a hypothesis test: 
 https://youtu.be/mA0mJ3Sg2G8
 
-#### Classified 
-1. Paramteric hypothesis testing eg: for population parameters mean, std dev
+#### Classification
+1. Parametric hypothesis testing eg: for population parameters mean, std dev
 2. Non-Parametric hypothesis testing  eg: for distribution of data
 
 #### Example of hypothesis:
@@ -23,19 +23,25 @@ https://youtu.be/mA0mJ3Sg2G8
 2. avg time by women on social media than men
 3. morality rate in covid independent of gender
 
-***Initially, we belive null hypothesis is true.***
+***Initially, we believe null hypothesis is true.***
 Null hypothesis i.e no relationship b/w variable under consideration
 
-#### steps:
+#### Steps:
 1. **Description of Hypothesis** ----> https://youtu.be/0OCz_0xcIoE
 2. **Null(H0) and Alternative Hypothesis(H1)**  ----> https://youtu.be/9NJ2v5kEz0E
-3. **Test-Statistic**: It is the standardized difference between the null hypothesis & the observed value, enable us to calculate (p-value) evidence against null hypothesis, depends on the probability dist of the sampling distribution ----> https://youtu.be/scT8JvQ9r1E
+3. **Test-Statistic**: ----> https://youtu.be/scT8JvQ9r1E
+  - It is the standardized difference between the null hypothesis & the observed value, 
+  - enables us to calculate (p-value) evidence against null hypothesis, 
+  - depends on the probability dist of the sampling distribution.
 4. **Decision Criteria – Significance Value, α** ---> https://youtu.be/x2-RiAzmXho
+5. **p-value**: which is the conditional probability of observing a **test statistic** value as extreme as the one observed in the sample, given the null hypothesis is true.
+6. Decision
 
-|Comparison |                  |
+|criteria |                  |
 |-----------|------------------|
 |p-value< α | Reject the null hypothesis |
 |p-value>= α | Retain the null hypothesis |
+
 
 #### one-tailed test and a two-tailed test 
 A one-tailed test and a two-tailed test are alternative ways of computing the statistical significance of a parameter inferred from a data set, in terms of a **test statistic.**
