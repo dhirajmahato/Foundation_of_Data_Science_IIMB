@@ -12,3 +12,14 @@ The value α is called significance, α represents the chance of not observing t
 video: https://youtu.be/x5Hj81w-IMA
 
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/2360a5f7-3fc6-478f-b61b-beef9daf8795)
+
+### Confidence Interval for Population Proportion
+video: https://youtu.be/hOKaJOlWDf8
+
+### Confidence Interval for Population Mean when Standard Deviation is Unknown
+video: https://youtu.be/dMHROQt8to4
+
+### Confidence Interval for Population Variance
+video: https://youtu.be/3ZHWRFlJ1A4
+
+***
