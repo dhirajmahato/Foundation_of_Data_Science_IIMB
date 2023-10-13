@@ -52,17 +52,17 @@ A one-tailed test and a two-tailed test are alternative ways of computing the st
 
 **statement 1**:  Salary of ML experts on avg at least <= $100K
 
-H0: µm <= 100,000  ; equality in null hypothesis
-Ha: µm >  100,000  ; sign decide which side is rejection side having area α in alternate hypothesis, **right-tailed Test**
+- H0: µm <= 100,000  ; equality in null hypothesis ,
+- Ha: µm >  100,000  ; sign decide which side is rejection side having area α in alternate hypothesis, **right-tailed Test**
   
 **statement 2**:  The average waiting time at the Heathrow airport security check is less than 30 minutes
 
-H0: µm >=30
-Ha: µm < 30  ;  **left-tailed Test**
+- H0: µm >=30
+- Ha: µm < 30  ;  **left-tailed Test**
 
 **statement 3**: The avg salary of men and women grad is different
 
-H0: µm = µf
-Ha: µm != µm ; rejection region on both side with area α/2 each; **two-tailed Test**
+- H0: µm = µf
+- Ha: µm != µm ; rejection region on both side with area α/2 each; **two-tailed Test**
 
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/1063ff1a-5a7f-4e30-be71-0468d9296cf9)
