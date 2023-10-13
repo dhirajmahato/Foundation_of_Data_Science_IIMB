@@ -28,3 +28,11 @@ https://youtu.be/mA0mJ3Sg2G8
 |-----------|------------------|
 |p-value< α | Reject the null hypothesis |
 |p-value>= α | Retain the null hypothesis |
+
+#### one-tailed test and a two-tailed test 
+A one-tailed test and a two-tailed test are alternative ways of computing the statistical significance of a parameter inferred from a data set, in terms of a **test statistic.**
+
+- A two-tailed test is appropriate if the estimated value is greater or less than a certain range of values, this method is used for null hypothesis testing and if the estimated value exists in the critical areas, the alternative hypothesis is accepted over the null hypothesis.
+- A one-tailed test is appropriate if the estimated value may depart from the reference value in only one direction, left or right, but not both.
+
+  
