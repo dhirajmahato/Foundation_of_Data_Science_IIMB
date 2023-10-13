@@ -66,3 +66,11 @@ A one-tailed test and a two-tailed test are alternative ways of computing the st
 - Ha: µm != µm ; rejection region on both side with area α/2 each; **two-tailed Test**
 
 ![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/1063ff1a-5a7f-4e30-be71-0468d9296cf9)
+
+#### Type I Error, Type II Error, and Power of the Hypothesis Test
+
+video: https://youtu.be/3OO63srgchM
+
+Type I Error:
+Type II Error:
+
