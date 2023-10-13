@@ -95,7 +95,7 @@ drug's effectiveness when it does have an effect.
 
 ***
 
-#### Hypothesis Testing for Population Mean with known Variance: Z-Test
+### Hypothesis Testing for Population Mean with known Variance: Z-Test
 video : https://youtu.be/T3ujcnOAB-w
 
 Z-test (also known as one-sample Z-test) is used when a claim (hypothesis) is made about the population parameter such as population mean or proportion. 
@@ -113,11 +113,35 @@ Z-test (also known as one-sample Z-test) is used when a claim (hypothesis) is ma
 #### Z-Test for Proportion
 video: https://youtu.be/ZQDcJo1gb7g
 
+**Two-Sample Z-Test for Proportions** <br/>
+https://youtu.be/XwPFkRa30SQ
+
+
 ***
-#### Hypothesis Test for Population Mean under Unknown Population Variance: t-Test
+### Hypothesis Test for Population Mean under Unknown Population Variance: t-Test
+**One Sample t-test**: https://youtu.be/Gx9ZYKmYySA
 
 - The t-test is used when the population follows a normal distribution and the population standard deviation is unknown and is estimated from the sample.
 - Test statistic follows a t-distribution with n-1 degrees of freedom.
 - One degree of freedom is lost since the standard deviation is estimated from the sample.
+
+**Paired Sample t-test** : https://youtu.be/iOmDNFMEbiM
+
+#### Comparing two populations: Two Sample Z and t- Test
+https://youtu.be/ucbLdsmSrtc
+
+**Effect size: Cohen's D**:  https://youtu.be/waP2PtgWf-w
+
+***
+
+### Hypothesis Test for Equality of Population Variances
+video: https://youtu.be/KrsrhdP7FmU
+
+***
+### Non-Parametric Tests: Chi-Square Tests
+video: https://youtu.be/k_v89RRRXkQ
+
+
+***
 
 
