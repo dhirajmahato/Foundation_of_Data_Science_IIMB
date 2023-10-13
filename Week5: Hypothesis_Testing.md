@@ -100,6 +100,15 @@ Z-test (also known as one-sample Z-test) is used when a claim (hypothesis) is ma
 - Z-test uses CLT to conduct a hypothesis test for population mean when the population variance is known.
 - The test statistics here called Z statistics
   - The *critical value* in this case will depend on the significance value **α** and whether it is a **one-tailed or two-tailed test.**
- 
+
+![image](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/33b66c2f-66b0-421e-bed0-c0c5df713629)
+
 **one-sample Z-test** used when:
-1. 
+1. Testing the value of population mean when the population standard deviation is known.
+2. the population is normal distribution and the population variance is known
+3. the sample size is large and the population variance is known that is the Assumption of normal distribution can be relaxed when the sample size n >30.
+
+#### Z-Test for Proportion
+video: https://youtu.be/ZQDcJo1gb7g
+
+
