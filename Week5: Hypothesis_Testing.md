@@ -8,21 +8,29 @@ Hypothesis testing is used to establish evidence of an association relationship 
 - Hypothesis test consists of two complementary statements called null hypothesis and alternative hypothesis, only one of which can hold true.
 - The objective of hypothesis testing is to either reject or retain a null hypothesis.
 
-> Data analysis in general can be classified as exploratory data analysis or confirmatory data analysis.<br/>
+> Data analysis in general can be classified as **exploratory data analysis** or **confirmatory data analysis**.<br/>
 >  In exploratory data analysis, the idea is to look for new or previously unknown hypotheses or suggest hypotheses. In the case of confirmatory data analysis, the objective is to test the validity of a hypothesis (confirm whether a hypothesis is true or not) using techniques such as **hypothesis testing** and **regression.**
 
 ### Setting up a hypothesis test: 
 https://youtu.be/mA0mJ3Sg2G8
 
 #### Classified 
-1. Paramteric hypothesis testing
-2. Non-Parametric hypothesis testing
+1. Paramteric hypothesis testing eg: for population parameters mean, std dev
+2. Non-Parametric hypothesis testing  eg: for distribution of data
+
+#### Example of hypothesis:
+1. girls take more selfies
+2. avg time by women on social media than men
+3. morality rate in covid independent of gender
+
+***Initially, we belive null hypothesis is true.***
+Null hypothesis i.e no relationship b/w variable under consideration
 
 #### steps:
-1. Description of Hypothesis ----> https://youtu.be/0OCz_0xcIoE
-2. Null(H0) and Alternative Hypothesis(H1)  ----> https://youtu.be/9NJ2v5kEz0E
-3. Test-Statistic: p-value is evidence against null hypothesis ----> https://youtu.be/scT8JvQ9r1E
-4. Decision Criteria – Significance Value, α ---> https://youtu.be/x2-RiAzmXho
+1. **Description of Hypothesis** ----> https://youtu.be/0OCz_0xcIoE
+2. **Null(H0) and Alternative Hypothesis(H1)**  ----> https://youtu.be/9NJ2v5kEz0E
+3. **Test-Statistic**: It is the standardized difference between the null hypothesis & the observed value, enable us to calculate (p-value) evidence against null hypothesis, depends on the probability dist of the sampling distribution ----> https://youtu.be/scT8JvQ9r1E
+4. **Decision Criteria – Significance Value, α** ---> https://youtu.be/x2-RiAzmXho
 
 |Comparison |                  |
 |-----------|------------------|
