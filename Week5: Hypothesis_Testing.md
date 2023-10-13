@@ -71,6 +71,12 @@ A one-tailed test and a two-tailed test are alternative ways of computing the st
 
 video: https://youtu.be/3OO63srgchM
 
-Type I Error:
-Type II Error:
+**Type I Error/False Positive:**
+- The conditional probability of rejecting the null hypothesis when it is true.
+- The significance value α is the maximum value of Type I error
+- Type I error = α = P(Rejecting null hypothesis | H0 is true)
 
+**Type II Error/ False Negative:**
+- The conditional probability of failing to reject(retain) a null hypothesis is true is called Type II Error.
+- Usually denoted by β
+- Type II error = β = P(retain null hypothesis | H0 is false)
