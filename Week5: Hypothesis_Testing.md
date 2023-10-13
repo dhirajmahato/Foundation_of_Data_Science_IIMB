@@ -21,5 +21,10 @@ https://youtu.be/mA0mJ3Sg2G8
 #### steps:
 1. Description of Hypothesis ----> https://youtu.be/0OCz_0xcIoE
 2. Null(H0) and Alternative Hypothesis(H1)  ----> https://youtu.be/9NJ2v5kEz0E
-3. Test-Statistic
-4. Decision Criteria – Significance Value
+3. Test-Statistic: p-value is evidence against null hypothesis ----> https://youtu.be/scT8JvQ9r1E
+4. Decision Criteria – Significance Value, α ---> https://youtu.be/x2-RiAzmXho
+
+|Comparison |                  |
+|-----------|------------------|
+|p-value< α | Reject the null hypothesis |
+|p-value>= α | Retain the null hypothesis |
