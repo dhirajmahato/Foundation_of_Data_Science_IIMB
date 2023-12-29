@@ -121,7 +121,7 @@ video 2: https://youtu.be/5b8kSbvKfdM
 
 TABLEAU
 video: https://youtu.be/UqOPZmknWks
-
+***
 ### D. Statistical Inference
 #### 1. Hypothesis Testing (Null and Alternative Hypotheses):
 Hypothesis testing is a statistical method used to make inferences about a population based on sample data.
