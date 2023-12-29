@@ -73,7 +73,7 @@ If a variable or feature has very low variability, then it is unlikely to have a
 There are 4 methods to measure the dispersion of the data:
 - **Range**: difference between the maximum and minimum values of the data in the sample, captures the data spread.
    - conversion of a continuous number into buckets is a part of feature engineering and may improve the model        
-- **Inter Quartile Distance(IQD/IQR)**: distance between Quartile 1 (Q1) and Quartile 3 (Q3) in a data set.Values of data below Q1 – 1.5 IQD and above Q3 + 1.5 IQD are classified as potential outliers.
+- **Inter Quartile Distance(IQD/IQR)**: distance between Quartile 1 (Q1) and Quartile 3 (Q3) in a data set.Values of data below Q1 – 1.5 IQD and above Q3 + 1.5 IQD are classified as potential outliers.  interquartile range is the middle 50% of measurements in a data set.
    -  There are three quartile values—a lower quartile(Q1), median(Q2), and upper quartile(Q3)—to divide the data set into four ranges, each containing 25% of the data points. 
    -  its use appropriate only in the case of univariate data (data with one dimension). In the case of multivariate data, we use distance measures such as
 Mahalanobis distance and Cook’s distance to identify outliers.
