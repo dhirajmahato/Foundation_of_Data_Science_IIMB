@@ -98,8 +98,12 @@ A kurtosis value of 3 indicates standard normal distribution
 ### B. Statistics Distribution
 - Data distribution is the **frequency distribution** of individual values in a data set.
 
-1. Continuous Distribution
-2. Discrete Distribution
+4 Questions to characterise data:
+
+1. Continuous Distribution vs Discrete Distribution
+2. Symetric or Asymetric
+3. Data Range
+4. Likelihood of observing extreme values
   
 - **Probability distributions** describe the likelihood of different outcomes in a random event.
    - Discrete distributions are used when the variable can take on a countable number of distinct values, such as the binomial distribution for the number of successes in a fixed number of trials. 
