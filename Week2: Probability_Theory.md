@@ -179,6 +179,7 @@ $$F(a) = P(X ≤ a) = \sum_{k=1}^a P(X=k)$$
 
 Application : https://youtu.be/4yFPMliPlDM
 
+Note: As the probability of success is varied (from 50%) the distribution will also shift its shape, becoming positively skewed for probabilities less than 50% and negatively skewed for probabilities greater than 50%
 ***
 
 ### 2. Poisson Distribution
