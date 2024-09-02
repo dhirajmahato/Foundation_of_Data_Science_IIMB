@@ -97,6 +97,9 @@ A kurtosis value of 3 indicates standard normal distribution
 ***
 ### B. Statistics Distribution
 - Data distribution is the **frequency distribution** of individual values in a data set.
+
+1. Continuous Distribution
+2. Discrete Distribution
   
 - **Probability distributions** describe the likelihood of different outcomes in a random event.
    - Discrete distributions are used when the variable can take on a countable number of distinct values, such as the binomial distribution for the number of successes in a fixed number of trials. 
@@ -110,7 +113,9 @@ A kurtosis value of 3 indicates standard normal distribution
    - Example: Tossing a fair coin h 10 times can be modeled using a binomial distribution. The probability of getting exactly 5 heads (successes) in 10 coin flips can be calculated using the binomial distribution formula.
  
 - **Poisson Distribution**
+   - The Poisson distribution is a discrete probability distribution that models the number of events occurring in a fixed interval of time or space, where the events occur independently and at a constant average rate.
 - **Exponential Distribution**
+   - The Exponential Distribution is a continuous probability distribution that models the time between independent events that occur at a constant average rate. Unlike the Normal Distribution, it is asymmetric and has a heavy right tail.
 ***
 ### C. Data Visualisation
 video 1: https://youtu.be/1o_Yo2GD1e8 <br/>
