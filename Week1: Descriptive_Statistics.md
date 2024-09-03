@@ -111,14 +111,16 @@ B. **Probability distributions** describe the likelihood of different outcomes i
    - The normal distribution (or Gaussian distribution) is a continuous probability distribution that is symmetric and bell-shaped.
    - It is characterized by its mean (μ) and standard deviation (σ), which determine the location and spread of the distribution, respectively.
    - Example: The heights of adult males in a population often follow a normal distribution. If the mean height is 175 cm and the standard deviation is 6 cm, you can use the normal distribution to calculate the probability of finding a male with a height between certain values or above a  certain height.
+- **Exponential Distribution**
+   - The Exponential Distribution is a continuous probability distribution that models the time between independent events that occur at a constant average rate. Unlike the Normal Distribution, it is asymmetric and has a heavy right tail.
+
 - **Binomial distribution** describes the probability of obtaining a specific number of successes in a fixed number of independent trials, each with the same probability of success.
    - It is characterized by two parameters: the number of trials (n) and the probability of success (p).
    - Example: Tossing a fair coin h 10 times can be modeled using a binomial distribution. The probability of getting exactly 5 heads (successes) in 10 coin flips can be calculated using the binomial distribution formula.
  
 - **Poisson Distribution**
    - The Poisson distribution is a discrete probability distribution that models the number of events occurring in a fixed interval of time or space, where the events occur independently and at a constant average rate.
-- **Exponential Distribution**
-   - The Exponential Distribution is a continuous probability distribution that models the time between independent events that occur at a constant average rate. Unlike the Normal Distribution, it is asymmetric and has a heavy right tail.
+
 ***
 ### C. Data Visualisation
 video 1: https://youtu.be/1o_Yo2GD1e8 <br/>
