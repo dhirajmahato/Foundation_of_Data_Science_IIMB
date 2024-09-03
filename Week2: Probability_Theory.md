@@ -186,8 +186,28 @@ Note: As the probability of success is varied (from 50%) the distribution will a
 
 Poisson distribution is used to model the number of events occurring within a given time interval.
 - λ is the shape parameter which indicates the average number of events in the given time interval.
+- Probability Mass Function (PMF): The probability of observing 𝑘 events in a fixed interval is given by the Poisson PMF:
 
+$$
+P(X = k) = \frac{{\lambda^k e^{-\lambda}}}{{k!}}
+$$
 
+Where:
+- X is the random variable representing the number of events.
+- k is the actual number of events.
+- λ is the average number of events in the interval (mean rate).
+- e is the base of the natural logarithm, approximately equal to 2.71828.
+
+Assumptions:
+- Independence: The occurrence of one event does not affect the occurrence of another.
+- Constant Rate: The average rate 𝜆 at which events occur is constant.
+- Non-overlapping Intervals: The number of events in non-overlapping intervals is independent.
+
+Applications: 
+- The number of phone calls received by a call center in an hour.
+- The number of emails received in a day.
+- The number of cars passing through a toll booth in a given time period.
+- The number of typing errors on a single page of a book.
 
 ***
 
