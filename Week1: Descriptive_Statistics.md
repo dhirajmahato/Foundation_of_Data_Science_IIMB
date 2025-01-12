@@ -1,7 +1,7 @@
 ## Statistics
 
    
-### A. Introduction
+### 0. Introduction
 
 |**Quantitative**      | **Qualitative**   |
 |----------------------|---------------------|
@@ -51,6 +51,8 @@ industry type (manufacturing, healthcare, banking, insurance, and finance)
    - An **Interval scale** corresponds to a variable type in which the value of the variable is chosen from an interval set. In an interval scale, the ratios do not make sense.  The reference point is fixed arbitrarily. eg: Variables such as temperature measured in centigrade (oC) and intelligence quotient (IQ) score are examples of interval scales.
 
 ___
+### A. Descriptive Statistics
+
 
 #### 3. Measures of Central Tendency
 
