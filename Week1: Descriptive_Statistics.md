@@ -25,6 +25,14 @@
 In many real-life problems, we make inferences about the population based on sample data or based on multiple samples for cross validation.
 There are many challenges in sampling (process of selecting a sample from the population). An incorrect sample may result in bias and incorrect inference about the population.
 
+#### 1.1 Data Sampling
+Data sampling is a statistical analysis technique used to select, manipulate and analyze a representative subset of data points to identify patterns and trends in the larger data set being examined.
+
+1. Probability Sampling: In probability sampling, every element of the population has an equal chance of being selected. Probability sampling gives us the best chance to create a sample that is truly representative of the population
+2. Non-Probability Sampling: In non-probability sampling, all elements do not have an equal chance of being selected. Consequently, there is a significant risk of ending up with a non-representative sample which does not produce generalizable results
+
+![image](https://github.com/user-attachments/assets/42796855-1f3f-48fb-9474-cad582d2205d)
+
 - *Random Sampling* is a process in which each member in population has equal chance of being chosen for sample.
 
 #### 2. Variable Data Types, Classification, Scales
