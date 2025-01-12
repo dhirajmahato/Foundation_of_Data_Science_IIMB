@@ -105,9 +105,9 @@ This data is distributed in different ways. They are:
    - Mesokurtic
    - Leptokurtic
 
-1.Platykurtic: The platykurtic shows a distribution with flat tails. Here the data is distributed faltly . The flat tails indicated the small outliers in the distribution.
-2.Mesokurtic: In Mesokurtic, the data is widely distributed. It is normally distributed and it also matches normal distribution.
-3.Leptokurtic: In leptokurtic, the data is very closely distributed. The height of the peak is greater than width of the peak.
+1. Platykurtic: The platykurtic shows a distribution with flat tails. Here the data is distributed faltly . The flat tails indicated the small outliers in the distribution.
+2. Mesokurtic: In Mesokurtic, the data is widely distributed. It is normally distributed and it also matches normal distribution.
+3. Leptokurtic: In leptokurtic, the data is very closely distributed. The height of the peak is greater than width of the peak.
 
 A kurtosis value of 3 indicates standard normal distribution
 ![image](https://github.com/user-attachments/assets/14783f3d-7014-486d-95ea-17eaa816a5a9)
