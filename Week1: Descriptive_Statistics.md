@@ -8,7 +8,7 @@
 |decide *which calculations and statistical tests* you’ll use to analyze the data. | consider what *approach you’ll take to categorizing  and interpreting* the data.|
 |   You’ll  probably be using some kind of **statistical analysis**.|  Instead of summing it up in numbers, you’ll  need to comb through the data in detail, interpret its meanings, and extract the parts that are most relevant to your research question. |
 | 1. Summarize your sample data,<br/> 2. Make estimates about the population,<br/> 3. And test hypotheses.| **Thematic analysis**,  which focuses on finding patterns in the data. You label recurring topics or concepts  and then group them into broad themes.<br/> **Discourse analysis**,  which pays more attention to things like social context and structure. You analyze not  only what is said, but also how it’s said.  | 
-| **Descriptive statistics** like the mean to test a hypothesis about a relationship  between variables, you can use a statistical test. <br/> a. Regression and correlation tests look for  associations between two or more variables. <br/> b. Comparison tests, such as t-tests and ANOVAs, look for differences in the  outcomes of different groups.|   |
+| a. Descriptive statistics like the mean to test a hypothesis about a relationship  between variables, you can use a statistical test. <br/> b. Regression and correlation tests look for  associations between two or more variables. <br/> c. Comparison tests, such as t-tests and ANOVAs, look for differences in the  outcomes of different groups.|   |
 
 ***
 
