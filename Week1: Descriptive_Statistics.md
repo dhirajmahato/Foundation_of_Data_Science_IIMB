@@ -13,7 +13,7 @@
 ***
 
 #### Types
-1. **Descriptive statistics** are used to summarize and describe the characteristics of a dataset.
+1. **Descriptive statistics** are used to summarize and describe the characteristics of a dataset. (Measure of Central Tendency, Measure of Variability)
    - regression analysis, 
 2. **Inferential statistics** are used to draw conclusions about a population based on a sample of data. Techniques like hypothesis testing and confidence intervals are examples of inferential statistics.
 
