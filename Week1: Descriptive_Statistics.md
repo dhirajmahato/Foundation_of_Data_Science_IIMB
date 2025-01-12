@@ -93,13 +93,24 @@ Mahalanobis distance and Cook’s distance to identify outliers.
 #### 5. Measures of Skewness 
 video: https://youtu.be/pKv9rJ09xvc
 
-**Skewness** is a measure of symmetry,or lack of symmetry i.e, the proportion of data between μ and μ - kσ is the same as that between μ and μ+ kσ, where k is a positive constant.
+- **Skewness** is a measure of symmetry,or lack of symmetry i.e, the proportion of data between μ and μ - kσ is the same as that between μ and μ+ kσ, where k is a positive constant.
 
 In the context of finance and investment, Skewness is useful for measuring the extreme values of return on investment.
 ![Screenshot from 2023-10-07 10-26-23](https://github.com/dhirajmahato/Foundation_of_Data_Science_IIMB/assets/33785298/2f19fa99-2a39-4c58-a2f7-cd1f22e345eb)
 
-**Kurtosis** measures the shape of the tails in comparison to the overall shape, – i.e, whether the tail of the data distribution is heavy or light
+- **Kurtosis** measures the shape of the tails in comparison to the overall shape, – i.e, whether the tail of the data distribution is heavy or light.
+(measure of describing the distribution of data)
+This data is distributed in different ways. They are:
+   - Platykurtic
+   - Mesokurtic
+   - Leptokurtic
+
+1.Platykurtic: The platykurtic shows a distribution with flat tails. Here the data is distributed faltly . The flat tails indicated the small outliers in the distribution.
+2.Mesokurtic: In Mesokurtic, the data is widely distributed. It is normally distributed and it also matches normal distribution.
+3.Leptokurtic: In leptokurtic, the data is very closely distributed. The height of the peak is greater than width of the peak.
+
 A kurtosis value of 3 indicates standard normal distribution
+![image](https://github.com/user-attachments/assets/14783f3d-7014-486d-95ea-17eaa816a5a9)
 
 
 ***
