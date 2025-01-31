@@ -134,10 +134,9 @@ B. **Probability distributions** describe the likelihood of different outcomes i
    - Example: The heights of adult males in a population often follow a normal distribution. If the mean height is 175 cm and the standard deviation is 6 cm, you can use the normal distribution to calculate the probability of finding a male with a height between certain values or above a  certain height.
 
  Note: 
-</br>Empirical Rule does not apply to all data sets, only to those that are bell-shaped.
+ Empirical Rule does not apply to all data sets, only to those that are bell-shaped.Approximately 99.7% of the data lies within three standard deviations of the mean, that is, in the interval with endpoints x¯±3s for samples and with endpoints μ±3σ for populations.
+</br>
 ![image](https://github.com/user-attachments/assets/7a7e2c39-6d10-4a23-bcbf-e1327cd2845f)
-Approximately 99.7% of the data lies within three standard deviations of the mean, that is, in the interval with endpoints x¯±3s for samples and with endpoints μ±3σ for populations.
-
 
 - **Exponential Distribution**
    - The Exponential Distribution is a continuous probability distribution that models the time between independent events that occur at a constant average rate. Unlike the Normal Distribution, it is asymmetric and has a heavy right tail.
